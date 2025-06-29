@@ -91,14 +91,14 @@
 	
   <distributionManagement>
       <snapshotRepository>
-        <id>crm-project</id>
-        <name>devops markonda</name>
-	<url>http://localhost:8081/repository/devops/</url>
+        <id>devops-june</id>
+        <name>devops-markonda</name>
+	<url>http://172.29.45.87:8081/repository/june-devops/</url>
       </snapshotRepository>
       <repository>
-        <id>crm-project</id>
-        <name>devops markonda</name>
-	<url>http://3.88.106.179:8081/devopsmarkonda/repository/crm-project/</url>
+        <id>devops-june</id>
+        <name>devops-markonda</name>
+	<url>http://172.29.45.87:8081/repository/june-devops/</url>
       </repository>	
    </distributionManagement>
 	
